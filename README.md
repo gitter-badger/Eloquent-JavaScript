@@ -1,4 +1,5 @@
 # Eloquent JavaScript
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/abhisekp/Eloquent-JavaScript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 These are the sources used to build the second edition of Eloquent
 JavaScript.
